@@ -48,10 +48,16 @@ Currently working on **contract intelligence solutions at [CORAMA](https://coram
 
 ## 📚 Coursework & Skills in Action 
 📌 **Computer Science with Applications I & II** (Python) – **CAPP 30121, 30122**  
+
 📌 **Databases for Public Policy** (Flask, SQL, PostgreSQL) – **CAPP 30235** 
+
 📌 **Machine Learning for Public Policy** (Supervised/Unsupervised ML) – **CAPP 30254, 30255** 
-📌 **Data Visualization** (Altair, D3.js) – **CAPP 30239**  
-📌 **Cloud Computing & Infrastructure** (AWS, EC2, S3) – **MPCS 51083** 
+
+📌 **Data Visualization for Public Policy** (Altair, D3.js) – **CAPP 30239**  
+
+📌 **Cloud Computing** (AWS, EC2, S3) – **MPCS 51083**
+
+📌 **UX/UI Design** (Figma) – **MPCS 51230** 
 
 ---
 
