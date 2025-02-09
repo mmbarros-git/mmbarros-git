@@ -13,7 +13,7 @@ Currently working on **contract intelligence solutions at [CORAMA](https://coram
 💡 **Automated contract intelligence for government procurement**  
 🔹 Developed AI-enhanced tools for **capability statement builder**  
 
-📌 [**Tracing Journeys: 30 Years of Global Migration & Population Change**](https://github.com/mmbarros-git/InteractiveViz) (2024)  
+📌 [**Tracing Journeys: 30 Years of Global Migration & Population Change**]((https://mmbarrosmigrationviz.netlify.app/) (2024)  
 🌍 **Interactive visualization of migration & population shifts (1990–2020)**  
 🔹 Built **two visualizations**:  
    - **Migration & Immigration Trends**: Percentage shifts in population  
