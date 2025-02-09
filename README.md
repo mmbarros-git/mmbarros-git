@@ -25,7 +25,7 @@ Currently working on **contract intelligence solutions at [CORAMA](https://coram
 🔹 Built interactive **choropleth maps & trend analytics**  
 🔹 Data sourced from **Our World in Data & AFDC**  
 
-📌 **Costa Rica Proxy Means Test** (2024)  
+📌 [**Costa Rica Proxy Means Test**](https://github.com/m-rosenbaum/cr_pmt/) (2024)  
 💸 **Machine Learning for Predicting Household Poverty**  
 🔹 Developed a **supervised learning model** to classify income categories  
 🔹 Applied **Proxy Means Test (PMT) techniques** to government survey data
