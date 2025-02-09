@@ -13,14 +13,14 @@ Currently working on **contract intelligence solutions at [CORAMA](https://coram
 💡 **Automated contract intelligence for government procurement**  
 🔹 Developed AI-enhanced tools for **capability statement builder**  
 
-📌 **Tracing Journeys: 30 Years of Global Migration & Population Change** (2024)  
+📌 [**Tracing Journeys: 30 Years of Global Migration & Population Change**](https://github.com/mmbarros-git/InteractiveViz) (2024)  
 🌍 **Interactive visualization of migration & population shifts (1990–2020)**  
 🔹 Built **two visualizations**:  
    - **Migration & Immigration Trends**: Percentage shifts in population  
    - **Interactive Map**: Destinations & population changes over time  
 🔹 **Tech Stack:** Python, HTML5, D3.js  
 
-📌 **CO₂ Emissions Visualization** (2023)  
+📌 [**CO₂ Emissions Visualization**] (https://github.com/mmbarros-git/StaticViz) (2023)  
 📊 **Global carbon footprint analysis using Altair & Python**  
 🔹 Built interactive **choropleth maps & trend analytics**  
 🔹 Data sourced from **Our World in Data & AFDC**  
@@ -32,8 +32,8 @@ Currently working on **contract intelligence solutions at [CORAMA](https://coram
 
 📌 **Ghost-Hunter: Medicaid Provider Directories** (2024)  
 👻 **Detecting inconsistencies in healthcare provider databases**  
-🔹 Built a **data pipeline** to identify "ghost" providers in Medicaid directories  
-🔹 Used **Python, SQL & machine learning** for pattern recognition  
+🔹 Use **web scraping** to identify "ghost" providers in Medicaid directories  
+
 
 ---
 
