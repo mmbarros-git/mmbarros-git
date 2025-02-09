@@ -33,7 +33,7 @@ Currently working on **contract intelligence solutions at [CORAMA](https://coram
 
 ## 🛠️ Tech Stack  
 **Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)  ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)  ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 
 **Frameworks & Libraries:**  
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)  ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white)  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  ![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?logo=d3.js&logoColor=black)  
