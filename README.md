@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Magdalena Barros  
+# 👋 Hi, I'm Magdalena Barros (she/her)  
 🎓 **MSc in Computational Analysis & Public Policy** @ The University of Chicago (Expected 2025)  
 💻 **Program & Product Leadership | Data Strategy**  
 🚀 **Bridging AI, Data, and UX to build scalable solutions**  
@@ -13,27 +13,21 @@ Currently working on **contract intelligence solutions at [CORAMA](https://coram
 💡 **Automated contract intelligence for government procurement**  
 🔹 Developed AI-enhanced tools for **capability statement builder**  
 
-📌 [**Tracing Journeys: 30 Years of Global Migration & Population Change**]((https://mmbarrosmigrationviz.netlify.app/) (2024)  
+📌 **[Tracing Journeys: 30 Years of Global Migration & Population Change](https://mmbarrosmigrationviz.netlify.app/)** (2024)  
 🌍 **Interactive visualization of migration & population shifts (1990–2020)**  
 🔹 Built **two visualizations**:  
    - **Migration & Immigration Trends**: Percentage shifts in population  
    - **Interactive Map**: Destinations & population changes over time  
 🔹 **Tech Stack:** Python, HTML5, D3.js  
 
-📌 [**CO₂ Emissions Visualization**] (https://github.com/mmbarros-git/StaticViz) (2023)  
-📊 **Global carbon footprint analysis using Altair & Python**  
-🔹 Built interactive **choropleth maps & trend analytics**  
-🔹 Data sourced from **Our World in Data & AFDC**  
+📌 **[CO₂ Emissions Visualization](https://github.com/mmbarros-git/StaticViz)** (2023)  
+📊 **Global carbon footprint analysis using Altair & Python**, Data sourced from **Our World in Data & AFDC**  
 
-📌 [**Costa Rica Proxy Means Test**](https://github.com/m-rosenbaum/cr_pmt/) (2024)  
-💸 **Machine Learning for Predicting Household Poverty**  
-🔹 Developed a **supervised learning model** to classify income categories  
-🔹 Applied **Proxy Means Test (PMT) techniques** to government survey data
+📌 **[Costa Rica Proxy Means Test](https://github.com/m-rosenbaum/cr_pmt/)** (2024)  
+💸 **Machine Learning for Predicting Household Poverty**, Developed a **supervised learning model** to classify income categories  
 
 📌 **Ghost-Hunter: Medicaid Provider Directories** (2024)  
-👻 **Detecting inconsistencies in healthcare provider databases**  
-🔹 Use **web scraping** to identify "ghost" providers in Medicaid directories  
-
+👻 **Detecting inconsistencies in healthcare provider databases**, Use **web scraping** to identify "ghost" providers in Medicaid directories.  
 
 ---
 
@@ -59,13 +53,12 @@ Currently working on **contract intelligence solutions at [CORAMA](https://coram
 📌 **Data Visualization** (Altair, D3.js) – **CAPP 30239**  
 📌 **Cloud Computing & Infrastructure** (AWS, EC2, S3) – **MPCS 51083** 
 
-
 ---
 
 ## 📬 Let’s Connect!  
-📩 **Email:** [mmbarros@uchicago.edu]  
-🔗 **LinkedIn:** [https://www.linkedin.com/in/magdalena-barros/]  
-💻 **GitHub:** [https://github.com/mmbarros-git]  
+📩 **Email:**[mmbarros@uchicago.edu]  
+🔗 **LinkedIn:**[https://www.linkedin.com/in/magdalena-barros/]  
+💻 **GitHub:**[https://github.com/mmbarros-git]  
 
 ---
 
