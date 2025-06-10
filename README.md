@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Magdalena Barros (she/her)  
-🎓 **MSc in Computational Analysis & Public Policy** @ The University of Chicago (Expected 2025)  
+🎓 **MSc in Computational Analysis & Public Policy** @ The University of Chicago  
 💻 **Program & Product Leadership | Data Strategy**  
 🚀 **Bridging AI, Data, and UX to build scalable solutions**  
 
